@@ -1,0 +1,146 @@
+{
+  "_readme": "Ficheiro unico de conteudo. Altere precos, duracoes, horario, FAQ e textos aqui. Tudo o que estiver como [PREENCHER] ainda falta confirmar com a Veronica.",
+  "business": {
+    "name": "Veronica Miron Nails",
+    "handle": "veronicamiron_nails",
+    "owner": "Veronica Miron",
+    "role": "Nail artist",
+    "experience": "Mais de 10 anos de experiência",
+    "tagline": "Unhas cuidadas sem pressa, com a unha natural sempre em primeiro lugar.",
+    "phone": "+351930412636",
+    "phoneDisplay": "+351 930 412 636",
+    "whatsappNumber": "351930412636",
+    "instagramUrl": "https://www.instagram.com/veronicamiron_nails/",
+    "email": "[PREENCHER]",
+    "googleRating": "5,0",
+    "googleProfileUrl": "[PREENCHER]",
+    "address": {
+      "street": "R. Manuel Ferreira 19B",
+      "detail": "1.º andar, Gabinete 2",
+      "postalCode": "2795-223",
+      "locality": "Linda-a-Velha",
+      "municipality": "Oeiras",
+      "region": "Lisboa",
+      "country": "PT"
+    },
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=R.%20Manuel%20Ferreira%2019B%2C%202795-223%20Linda-a-Velha"
+  },
+  "hours": [
+    { "day": "Segunda", "schema": "Monday", "open": null, "close": null },
+    { "day": "Terça", "schema": "Tuesday", "open": "10:00", "close": "18:00" },
+    { "day": "Quarta", "schema": "Wednesday", "open": "10:00", "close": "18:00" },
+    { "day": "Quinta", "schema": "Thursday", "open": "10:00", "close": "18:00" },
+    { "day": "Sexta", "schema": "Friday", "open": "10:00", "close": "18:00" },
+    { "day": "Sábado", "schema": "Saturday", "open": "10:00", "close": "17:00" },
+    { "day": "Domingo", "schema": "Sunday", "open": null, "close": null }
+  ],
+  "booking": {
+    "headline": "Marque em menos de um minuto",
+    "intro": "Escolha o serviço e envie a mensagem. A Veronica responde para confirmar o horário.",
+    "whatsappMessage": "Olá Veronica! Gostaria de marcar uma visita.\nServiço: {servico}\nDia e hora que prefiro: ",
+    "whatsappGeneric": "a definir",
+    "consentLabel": "Aceito receber lembretes de manutenção e novidades por WhatsApp.",
+    "policy": "[PREENCHER: política de atrasos e cancelamentos]"
+  },
+  "services": [
+    {
+      "id": "manicure",
+      "name": "Manicure",
+      "summary": "Cutículas, forma e cuidado da unha natural, sem agredir a placa.",
+      "duration": "[PREENCHER]",
+      "price": "[PREENCHER]"
+    },
+    {
+      "id": "pedicure",
+      "name": "Pedicure sem água",
+      "summary": "Técnica waterless: sem bacia de imersão, trabalho a seco e preciso.",
+      "duration": "[PREENCHER]",
+      "price": "[PREENCHER]"
+    },
+    {
+      "id": "verniz-gel",
+      "name": "Verniz gel",
+      "summary": "Cor que dura, aplicada sobre a unha natural e removida com cuidado.",
+      "duration": "[PREENCHER]",
+      "price": "[PREENCHER]"
+    },
+    {
+      "id": "unhas-gel",
+      "name": "Unhas de gel",
+      "summary": "Reforço ou alongamento em gel, com acabamento natural.",
+      "duration": "[PREENCHER]",
+      "price": "[PREENCHER]"
+    }
+  ],
+  "hygiene": {
+    "title": "Higiene e segurança",
+    "text": "A saúde da sua unha natural vem primeiro. Cada passo é feito com calma, com material limpo e preparado para si.",
+    "steps": "[PREENCHER: processo de limpeza e esterilização do material]"
+  },
+  "about": {
+    "title": "Sobre a Veronica",
+    "lead": "Sou a Veronica Miron, nail artist há mais de 10 anos. Trabalho sozinha, por isso cada marcação é só sua: sem pressa e com atenção ao detalhe.",
+    "body": [
+      "O meu foco é preservar a unha natural. Prefiro uma unha saudável a um resultado rápido.",
+      "[PREENCHER: história pessoal, formação e certificações]"
+    ]
+  },
+  "findUs": {
+    "title": "Como chegar",
+    "warning": "O estúdio fica no 1.º andar, Gabinete 2. A porta não se vê da rua, por isso é fácil passar ao lado.",
+    "entrance": "[PREENCHER: como identificar a entrada do prédio (cor da porta, loja ao lado, campainha)]",
+    "parking": "[PREENCHER: onde estacionar]",
+    "transport": "[PREENCHER: autocarros ou comboio mais próximos]",
+    "accessibility": "[PREENCHER: existe elevador?]"
+  },
+  "reviews": {
+    "title": "Avaliações",
+    "text": "5,0 no Google. Leia as opiniões das clientes diretamente no perfil do Google.",
+    "items": []
+  },
+  "faq": [
+    {
+      "q": "Onde fica o estúdio?",
+      "a": "R. Manuel Ferreira 19B, 1.º andar, Gabinete 2, 2795-223 Linda-a-Velha. Fica num primeiro andar e é fácil passar ao lado: veja as indicações em Como chegar."
+    },
+    {
+      "q": "Quanto tempo demora cada serviço?",
+      "a": "Depende do serviço. Veja a duração de cada um na lista de serviços. [PREENCHER: confirmar durações]"
+    },
+    {
+      "q": "Quais são os preços?",
+      "a": "Todos os preços estão na página de serviços. [PREENCHER: confirmar preços]"
+    },
+    {
+      "q": "Como faço a marcação?",
+      "a": "Toque em Marcar, escolha o serviço e envie a mensagem por WhatsApp. Também pode ligar para +351 930 412 636 ou escrever no Instagram."
+    },
+    {
+      "q": "O que é a pedicure sem água?",
+      "a": "É uma pedicure feita sem bacia de imersão. A pele e as unhas são tratadas a seco, o que permite um trabalho mais preciso e evita partilhar água entre clientes."
+    },
+    {
+      "q": "Qual é a diferença entre verniz gel e unhas de gel?",
+      "a": "O verniz gel é cor aplicada sobre a sua unha natural. As unhas de gel dão reforço ou comprimento extra. Se tiver dúvidas, pergunte na marcação e a Veronica aconselha."
+    },
+    {
+      "q": "E se me atrasar ou precisar de cancelar?",
+      "a": "[PREENCHER: política de atrasos e cancelamentos]"
+    },
+    {
+      "q": "Que formas de pagamento aceitam?",
+      "a": "[PREENCHER: dinheiro, MB Way, multibanco]"
+    }
+  ],
+  "legal": {
+    "controllerName": "Veronica Miron",
+    "nif": "[PREENCHER]",
+    "complaintsBookUrl": "https://www.livroreclamacoes.pt/",
+    "privacyUpdated": "[PREENCHER: data de publicação]"
+  },
+  "seo": {
+    "title": "Veronica Miron Nails | Manicure e unhas de gel em Linda-a-Velha",
+    "description": "Manicure, pedicure sem água, verniz gel e unhas de gel em Linda-a-Velha, Oeiras. Nail artist com mais de 10 anos de experiência. 5,0 no Google. Marque por WhatsApp.",
+    "keywords": ["unhas de gel Linda-a-Velha", "manicure Oeiras", "pedicure Linda-a-Velha", "verniz gel Oeiras", "pedicure sem água"]
+  }
+}
